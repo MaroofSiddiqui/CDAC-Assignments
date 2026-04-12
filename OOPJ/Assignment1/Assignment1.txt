@@ -1,0 +1,32 @@
+Java is a high-level, object-oriented, platform-independent programming language.
+Platform independent.
+JVM executes bytecode and enables platform independence.
+JDK = development tools, JRE = runtime environment.
+Because bytecode runs on any JVM.
+Blueprint to create objects.
+Instance of a class.
+public static void main(String[] args)
+Prints output to console.
+Defines type of data stored.
+int, float, double, char, boolean, byte, short, long
+Storage container for data.
+int x = 10;
+int → integer, float → decimal
+Conversion of one data type to another.
+0
+Reserved word.
+No
+= → assignment, == → comparison
+Conditional statement.
+if → multiple conditions, switch → fixed cases
+Repeats code.
+for, while, do-while
+for → known iterations, while → unknown
+Terminates loop.
+Skips iteration.
+Program will not run.
+No
+Cannot execute.
+No
+4 bytes
+For security and simplicity.
